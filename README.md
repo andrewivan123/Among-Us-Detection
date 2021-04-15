@@ -14,6 +14,7 @@ python -m pip install .
 ```
 3. Install other requirements
 ```bash
+cd ../..
 pip install -r requirements.txt
 ```
 4. Run the program
